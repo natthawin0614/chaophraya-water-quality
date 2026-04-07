@@ -103,8 +103,8 @@ chaophraya-water-quality/
 │   └── 04_GRU_ChaoPhraya.ipynb        ← GRU deep learning model
 │
 ├── assets/
-│   ├── model_comparison_chart.png     ← Benchmark chart (place here)
-│   └── data_volume_vs_performance.png ← DL vs ML data volume diagram
+│   └── model_comparison_chart.png     ← Benchmark chart (place here)
+│ 
 │
 ├── paper/
 │   └── IEECON2025_Water_Quality.pdf   ← Published paper (IEECON 2025)
